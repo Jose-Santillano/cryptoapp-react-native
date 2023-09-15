@@ -1,4 +1,4 @@
-#  Ecommerce de ropa creado con ReactJS y API de Paypal v1.1.1
+#  App de visualización de Cryptomonedas con React Native y CoinGecko v1.0.0
 ## Descripción del proyecto
 
 Aplicación de visualización de mercado y estado de las Cryptomonedas, esta
